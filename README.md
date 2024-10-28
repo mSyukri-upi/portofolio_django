@@ -39,13 +39,6 @@ Sekarang kamu dapat menjalankan project Django dengan cara:
 python manage.py runserver
 ```
 
-## Hasil
-![Image 1](docs/home-page.jpeg)
-![Image 2](docs/about-page.jpeg)
-![Image 3](docs/education-page.jpeg)
-![Image 4](docs/experience-page.jpeg)
-![Image 5](docs/projects-page.jpeg)
-![Image 6](docs/achievements-page.jpeg)
 ## Dibuat Oleh
 Nama: Muhammad Syukri\
 NIM: 2305166\
